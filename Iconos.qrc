@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/new/prefix1">
+        <file>Recursos/hoja-de-calculo.png</file>
+        <file>Recursos/salida.png</file>
+    </qresource>
+</RCC>
